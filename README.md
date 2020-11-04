@@ -16,6 +16,6 @@ Next add the dependency to the build.gradle of your module:
 
 ```gradle
 dependencies {
-    implementation 'com.github.santukis:cerbero:1.0.0@aar'
+    implementation 'com.github.santukis:cerbero:0.0.1@aar'
 }
 ```
