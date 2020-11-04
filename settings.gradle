@@ -1,0 +1,3 @@
+include ':cerbero'
+include ':app'
+rootProject.name = "Cerbero"
