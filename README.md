@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/santukis/cerbero.svg)](https://jitpack.io/#santukis/cerbero)
+
 # cerbero
 Request permissions on Android easyly
 
